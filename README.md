@@ -14,7 +14,7 @@ I have created an interface to use DeepSeek locally, which is downloaded via Oll
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/deepseek-chat-interface.git
+   https://github.com/hassanalisyed021/deepseek-chat-interface.git
    cd deepseek-chat-interface
    ```
 2. Install dependencies:
